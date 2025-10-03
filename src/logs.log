@@ -1,0 +1,241 @@
+2025-10-03 06:17:24,089:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:17:24,089:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:17:24,089:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:17:24,089:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:17:47,476:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:17:47,476:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:17:47,476:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:17:47,476:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:17:48,003:INFO:Initializing load_model()
+2025-10-03 06:17:48,003:INFO:load_model(model_name=../content/stroke_risk_model, platform=None, authentication=None, verbose=True)
+2025-10-03 06:22:48,888:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:22:48,888:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:22:48,888:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:22:48,888:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:22:49,377:INFO:Initializing load_model()
+2025-10-03 06:22:49,377:INFO:load_model(model_name=../content/stroke_risk_model, platform=None, authentication=None, verbose=True)
+2025-10-03 06:23:10,550:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:23:10,550:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:23:10,550:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:23:10,550:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:23:11,056:INFO:Initializing load_model()
+2025-10-03 06:23:11,056:INFO:load_model(model_name=../content/stroke_risk_model, platform=None, authentication=None, verbose=True)
+2025-10-03 06:23:28,125:INFO:Initializing predict_model()
+2025-10-03 06:23:28,125:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000155B44CD2D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LogisticRegression(C=0.056, class_weight={}, max_iter=1000,
+                                    random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000155B458A4D0>)
+2025-10-03 06:23:28,125:INFO:Checking exceptions
+2025-10-03 06:23:28,125:INFO:Preloading libraries
+2025-10-03 06:23:28,125:INFO:Set up data.
+2025-10-03 06:23:28,125:INFO:Set up index.
+2025-10-03 06:24:13,747:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:24:13,747:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:24:13,747:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:24:13,747:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:24:14,240:INFO:Initializing load_model()
+2025-10-03 06:24:14,240:INFO:load_model(model_name=../content/stroke_risk_model, platform=None, authentication=None, verbose=True)
+2025-10-03 06:24:30,858:INFO:Initializing predict_model()
+2025-10-03 06:24:30,858:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000022BF64B0E50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LogisticRegression(C=0.056, class_weight={}, max_iter=1000,
+                                    random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000022BF6455CF0>)
+2025-10-03 06:24:30,858:INFO:Checking exceptions
+2025-10-03 06:24:30,858:INFO:Preloading libraries
+2025-10-03 06:24:30,859:INFO:Set up data.
+2025-10-03 06:24:30,862:INFO:Set up index.
+2025-10-03 06:25:16,990:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:25:16,990:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:25:16,990:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:25:16,990:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:25:17,475:INFO:Initializing load_model()
+2025-10-03 06:25:17,475:INFO:load_model(model_name=../content/stroke_risk_model, platform=None, authentication=None, verbose=True)
+2025-10-03 06:25:24,815:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:25:24,815:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:25:24,815:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:25:24,815:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:25:25,297:INFO:Initializing load_model()
+2025-10-03 06:25:25,297:INFO:load_model(model_name=../content/stroke_risk_model, platform=None, authentication=None, verbose=True)
+2025-10-03 06:25:42,917:INFO:Initializing predict_model()
+2025-10-03 06:25:42,917:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001BE972D8670>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LogisticRegression(C=0.056, class_weight={}, max_iter=1000,
+                                    random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001BE972872E0>)
+2025-10-03 06:25:42,917:INFO:Checking exceptions
+2025-10-03 06:25:42,917:INFO:Preloading libraries
+2025-10-03 06:25:42,917:INFO:Set up data.
+2025-10-03 06:25:42,921:INFO:Set up index.
+2025-10-03 06:26:19,025:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:26:19,025:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:26:19,025:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:26:19,025:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:26:19,531:INFO:Initializing load_model()
+2025-10-03 06:26:19,531:INFO:load_model(model_name=../content/stroke_risk_model, platform=None, authentication=None, verbose=True)
+2025-10-03 06:26:29,584:INFO:Initializing predict_model()
+2025-10-03 06:26:29,584:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000017F7C4299C0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LogisticRegression(C=0.056, class_weight={}, max_iter=1000,
+                                    random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000017F7C426710>)
+2025-10-03 06:26:29,584:INFO:Checking exceptions
+2025-10-03 06:26:29,585:INFO:Preloading libraries
+2025-10-03 06:26:29,585:INFO:Set up data.
+2025-10-03 06:26:29,588:INFO:Set up index.
+2025-10-03 06:26:48,879:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:26:48,879:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:26:48,879:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:26:48,879:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:26:49,368:INFO:Initializing load_model()
+2025-10-03 06:26:49,368:INFO:load_model(model_name=../content/stroke_risk_model, platform=None, authentication=None, verbose=True)
+2025-10-03 06:26:49,569:INFO:Initializing predict_model()
+2025-10-03 06:26:49,569:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001A9CDDCFE20>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LogisticRegression(C=0.056, class_weight={}, max_iter=1000,
+                                    random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001A9CDE89240>)
+2025-10-03 06:26:49,576:INFO:Checking exceptions
+2025-10-03 06:26:49,576:INFO:Preloading libraries
+2025-10-03 06:26:49,576:INFO:Set up data.
+2025-10-03 06:26:49,578:INFO:Set up index.
+2025-10-03 06:27:05,853:INFO:Initializing predict_model()
+2025-10-03 06:27:05,853:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001A9CDED3520>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LogisticRegression(C=0.056, class_weight={}, max_iter=1000,
+                                    random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001A9CDF21870>)
+2025-10-03 06:27:05,854:INFO:Checking exceptions
+2025-10-03 06:27:05,854:INFO:Preloading libraries
+2025-10-03 06:27:05,854:INFO:Set up data.
+2025-10-03 06:27:05,858:INFO:Set up index.
+2025-10-03 06:29:09,766:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:29:09,766:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:29:09,766:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:29:09,766:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-10-03 06:29:10,262:INFO:Initializing load_model()
+2025-10-03 06:29:10,262:INFO:load_model(model_name=../content/stroke_risk_model, platform=None, authentication=None, verbose=True)
+2025-10-03 06:29:28,982:INFO:Initializing predict_model()
+2025-10-03 06:29:28,982:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002810ADC6020>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LogisticRegression(C=0.056, class_weight={}, max_iter=1000,
+                                    random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002810ADB5EA0>)
+2025-10-03 06:29:28,982:INFO:Checking exceptions
+2025-10-03 06:29:28,982:INFO:Preloading libraries
+2025-10-03 06:29:28,982:INFO:Set up data.
+2025-10-03 06:29:28,985:INFO:Set up index.
+2025-10-03 06:29:40,963:INFO:Initializing predict_model()
+2025-10-03 06:29:40,963:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002810ACAE710>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LogisticRegression(C=0.056, class_weight={}, max_iter=1000,
+                                    random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002810AD693F0>)
+2025-10-03 06:29:40,963:INFO:Checking exceptions
+2025-10-03 06:29:40,963:INFO:Preloading libraries
+2025-10-03 06:29:40,963:INFO:Set up data.
+2025-10-03 06:29:40,965:INFO:Set up index.
+2025-10-03 06:29:48,531:INFO:Initializing predict_model()
+2025-10-03 06:29:48,531:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002810ADC4A90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LogisticRegression(C=0.056, class_weight={}, max_iter=1000,
+                                    random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002810AD6B5B0>)
+2025-10-03 06:29:48,531:INFO:Checking exceptions
+2025-10-03 06:29:48,531:INFO:Preloading libraries
+2025-10-03 06:29:48,531:INFO:Set up data.
+2025-10-03 06:29:48,534:INFO:Set up index.
+2025-10-03 06:29:59,801:INFO:Initializing predict_model()
+2025-10-03 06:29:59,801:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002810ADC6FB0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LogisticRegression(C=0.056, class_weight={}, max_iter=1000,
+                                    random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002810ADB64D0>)
+2025-10-03 06:29:59,801:INFO:Checking exceptions
+2025-10-03 06:29:59,801:INFO:Preloading libraries
+2025-10-03 06:29:59,801:INFO:Set up data.
+2025-10-03 06:29:59,804:INFO:Set up index.
+2025-10-03 06:30:04,501:INFO:Initializing predict_model()
+2025-10-03 06:30:04,501:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002810ADC6FB0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LogisticRegression(C=0.056, class_weight={}, max_iter=1000,
+                                    random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002810ADB4280>)
+2025-10-03 06:30:04,501:INFO:Checking exceptions
+2025-10-03 06:30:04,501:INFO:Preloading libraries
+2025-10-03 06:30:04,501:INFO:Set up data.
+2025-10-03 06:30:04,504:INFO:Set up index.
+2025-10-03 06:30:12,175:INFO:Initializing predict_model()
+2025-10-03 06:30:12,175:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002810ADC6C50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LogisticRegression(C=0.056, class_weight={}, max_iter=1000,
+                                    random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002810ADF55A0>)
+2025-10-03 06:30:12,175:INFO:Checking exceptions
+2025-10-03 06:30:12,175:INFO:Preloading libraries
+2025-10-03 06:30:12,175:INFO:Set up data.
+2025-10-03 06:30:12,177:INFO:Set up index.
+2025-10-03 06:30:13,452:INFO:Initializing predict_model()
+2025-10-03 06:30:13,452:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002810ACAEC20>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('clean_column_names',
+                 TransformerWrapper(transformer=CleanColumnNames())),
+                ('actual_estimator',
+                 LogisticRegression(C=0.056, class_weight={}, max_iter=1000,
+                                    random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=True, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002810ADB6E60>)
+2025-10-03 06:30:13,452:INFO:Checking exceptions
+2025-10-03 06:30:13,452:INFO:Preloading libraries
+2025-10-03 06:30:13,452:INFO:Set up data.
+2025-10-03 06:30:13,455:INFO:Set up index.
